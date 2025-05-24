@@ -61,13 +61,15 @@ rsconnect/
 # Ignore FASTA files
 *.fasta
 
-# Ignore PNG, TIFF, EPS, SVG, AI files
+# Ignore PNG, TIFF, EPS, PS, SVG, AI, PSB, JPG files
 *.png
 *.tif
 *.tiff
 *.eps
+*.ps
 *.svg
 *.ai
+*.psb
 *.jpg
 
 # Ignore CDXML, CDS files
